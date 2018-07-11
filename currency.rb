@@ -34,7 +34,7 @@ def jpy_to_usd(jpy)
 end
 
 def gbp_to_usd(gpb)
-  usd=
+  usd= gpb * 1.32
 end
 
 def aud_to_usd(aud)
