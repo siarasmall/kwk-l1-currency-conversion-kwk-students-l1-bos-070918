@@ -18,7 +18,7 @@ end
 * AUD to USD
 
 def usd_to_jpy(usd)
-  jpy= 
+  jpy= usd / 112
 end
 
 def usd_to_gbp(usd)
