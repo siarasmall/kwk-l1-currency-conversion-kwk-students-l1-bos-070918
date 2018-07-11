@@ -22,7 +22,7 @@ def usd_to_jpy(usd)
 end
 
 def usd_to_gbp(usd)
-  gbp= usd * 0.75
+  gbp= usd * 0.76
 end
 
 def usd_to_aud(usd)
