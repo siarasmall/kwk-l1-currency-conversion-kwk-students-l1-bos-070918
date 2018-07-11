@@ -1,7 +1,7 @@
 # Write your code here
-def usd_to_eur
+def usd_to_eur(dollars)
 end
 
-def eur_to_usd
+def eur_to_usd(euros)
 end
 
