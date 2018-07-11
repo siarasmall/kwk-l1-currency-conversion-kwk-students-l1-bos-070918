@@ -1,4 +1,4 @@
-# Write your code here
+# challenge 1
 def usd_to_eur(dollars)
   euros= dollars / 1.2
   return euros
@@ -9,3 +9,4 @@ def eur_to_usd(euros)
   return dollars
 end
 
+#challenge 2
