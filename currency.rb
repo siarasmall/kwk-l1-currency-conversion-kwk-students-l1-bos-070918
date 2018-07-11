@@ -38,5 +38,5 @@ def gbp_to_usd(gpb)
 end
 
 def aud_to_usd(aud)
-  usd=
+  usd= aud / 0.74
 end
